@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Generated files
+generated/*.stl
+generated/*.step
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
